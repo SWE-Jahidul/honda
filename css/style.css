@@ -1,0 +1,30 @@
+ 
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+/* common style */
+ body{
+     font-family: 'Poppins', sans-serif;
+}
+/* Top Header Section */
+ .top-header{
+     background-color: #264653;
+}
+/* Fetured */
+ .img-gray{
+     filter: grayscale(100%);
+}
+/* button */
+ .btn-warning{
+     background-color: #E76F51;
+}
+/* text color */
+ .text-orange{
+     color: #E76F51;
+}
+ .name{
+     color: #23A6F0;
+}
+/* footer */
+ footer{
+     background-color: #0B0D17;
+}
